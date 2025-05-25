@@ -12,7 +12,7 @@ G-Naira (gNGN) is an ERC20-compliant token deployed on the Ethereum network with
 - Rate limiting for large transfers
 
 ### Multi-Signature Governance
-- **Flexible M-of-N Signature Requirements**: Configurable number of required confirmations
+- **Flexible Signature Requirements**: Configurable number of required confirmations
 - **Transaction Proposals**: Any signatory can propose operations
 - **Automatic Execution**: Operations execute automatically once enough confirmations are received
 - **Transaction Timeout**: Proposals expire if not executed within timeframe
